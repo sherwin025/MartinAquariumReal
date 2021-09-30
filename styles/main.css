@@ -1,0 +1,30 @@
+@import url(location.css);
+@import url(fish.css);
+@import url(contact.css);
+
+* {
+    background-color: lightblue;
+}
+
+.content {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+.left {
+   flex: 3;
+}
+
+.right {
+    flex: 1;
+}
+
+.mainP {
+    text-align: center;
+
+}
+
+.subNav {
+    border: 2px solid black;
+    padding: 8px;
+}

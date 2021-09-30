@@ -1,0 +1,30 @@
+.locate {
+    justify-content: center;
+}
+.harvestL__img{
+    height: 200px;
+    width: 200px;
+  }
+
+.location{
+    justify-content: left;
+    margin: 10px;
+}
+
+.location1 {
+    margin: 50px 150px;
+    padding: 5px;
+    min-width: 200px;
+    display:flex;
+}
+
+.location__info {
+    margin: 50px 150px;
+    border: 3px dashed black;
+    padding: 5px;
+    min-width: 200px;
+}
+
+.quotes {
+    text-align: center;
+}

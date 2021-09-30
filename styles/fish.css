@@ -1,0 +1,21 @@
+.species__img {
+    height: 200px;
+    width: 200px;
+  }
+
+.description__1{
+    display: flex;
+    justify-content: left;
+    margin: 10px;
+}
+
+.info {
+    margin: 50px 150px;
+    border: 3px dashed black;
+    padding: 5px;
+    min-width: 200px;
+}
+
+.family {
+    text-align:justify;
+}
